@@ -112,8 +112,12 @@ Visual design, motion, interaction, and performance are treated as part of the i
 
 Programmer focused on building software, experimenting with interfaces, and learning how systems work.
 
-## License
+## ✦ License
 
-Copyright © 2026 Abdelrahman Essam.
+This project is **not open source**.
 
-The source code is provided for viewing and educational purposes. See the repository license for usage permissions.
+The repository is publicly available so that the code and implementation can be inspected and studied, but the portfolio itself, including its source code, design, visual assets, animations, branding, and content, may not be copied, redistributed, republished, or used as the basis for another portfolio without permission.
+
+See [`LICENSE`](./LICENSE) for the complete terms.
+
+**Copyright © 2026 Abdelrahman Essam (T3CHN0). All rights reserved.**
