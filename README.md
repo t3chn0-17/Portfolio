@@ -66,7 +66,7 @@ Each destination represents a different part of my developer profile.
 Clone the repository:
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/t3chn0-17/Portfolio.git
 cd portfolio
 ```
 
