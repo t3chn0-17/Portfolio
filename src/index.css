@@ -1,16 +1,16 @@
 :root {
 
-  --cyan:             ;
-  ---light-cyan:      ;
-  --muted-cyan:       ;
+  --cyan: #0fdce3;
+  ---light-cyan: #0ce9f1;
+  --muted-cyan: #0ce9f175;
 
-  --green:            ;
-  --light-green:      ;
-  --muted-green:      ;
+  --green: #16da20;
+  --light-green: #0feb1a;
+  --muted-green: #16da2075;
 
-  --red:              ;
-  --light-red:        ;
-  --muted-red:        ;
+  --red: #e21010;
+  --light-red: #ef0909;
+  --muted-red: #e2101075;
 
 }
 
